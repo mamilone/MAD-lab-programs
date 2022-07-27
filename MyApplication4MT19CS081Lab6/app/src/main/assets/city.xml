@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<contents>
+    <cities>
+        <cname>Mysore</cname>
+        <latitude>12.295</latitude>
+        <longitude>76.639</longitude>
+        <temp>22</temp>
+        <humidity>90%</humidity>
+    </cities>
+</contents>
